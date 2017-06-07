@@ -1,0 +1,45 @@
+h1{margin:20px;
+	background:gray;
+	color: black;
+	text-align:left;
+	border: 5px solid black;
+}
+ 
+ section {
+ 	float:left;
+ 	background: grey;
+	color:black;
+	margin :20px;
+	padding:20px;
+	text-align:center;
+	border: 5px solid black;
+}
+ 
+ body { 
+ background-image: url(https://images6.alphacoders.com/370/370797.jpg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: 100% 100%;
+}
+
+  div {width :65%;
+  	float:right;
+  	padding: 0px;
+  margin: 20px;
+  margin-top:5px;
+  color: #333;
+  background-color: gray;
+  border: 5px solid black;
+
+
+  footer {
+  	float:right;
+  	width:100%;
+	 padding: 20px;
+  margin: 20px;
+  color:purple;
+  background: gray;
+  text-align:center;
+  border: 5px solid black;
+}
